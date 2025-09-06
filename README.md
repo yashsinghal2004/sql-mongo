@@ -1,4 +1,4 @@
-# SQL-Mongo Converter - A Lightweight SQL to MongoDB (and Vice Versa) Query Converter 🍃
+# SQL-Mongo Converter - A Lightweight SQL to MongoDB (and Vice Versa) Query Converter 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=opensource)](LICENSE)  
 [![Python Version](https://img.shields.io/badge/Python-%3E=3.7-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)  
@@ -113,6 +113,7 @@ print(sql_query)
 ## License
 
 MIT License © 2025 [Yash Singhal]
+
 
 
 
