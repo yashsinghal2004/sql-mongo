@@ -21,14 +21,12 @@
 - **Extensible & Robust:**  
   Built to handle a wide range of query patterns. Easily extended to support additional SQL functions, advanced operators, and more complex query structures.
 
----
-
-## Installation
-
 ### Prerequisites
 
 - Python 3.7 or higher
 - pip
+  
+---  
 
 ## Usage
 
@@ -113,6 +111,7 @@ print(sql_query)
 ## License
 
 MIT License © 2025 [Yash Singhal]
+
 
 
 
