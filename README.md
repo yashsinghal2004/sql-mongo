@@ -1,4 +1,4 @@
-# SQL-Mongo Converter - A Lightweight SQL to MongoDB (and Vice Versa) Query Converter 
+# SQL-Mongo Converter - SQL to MongoDB (and Vice Versa) Query Converter 
 
 **SQL-Mongo Converter** is a lightweight Python library for converting SQL queries into MongoDB query dictionaries and converting MongoDB query dictionaries into SQL statements. It is designed for developers who need to quickly migrate or prototype between SQL-based and MongoDB-based data models without the overhead of a full ORM.
 
@@ -103,6 +103,7 @@ print(sql_query)
 ## License
 
 MIT License © 2025 [Yash Singhal]
+
 
 
 
